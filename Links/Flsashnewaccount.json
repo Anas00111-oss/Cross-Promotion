@@ -4,8 +4,8 @@
 		"canShowNativeAd": false,
 		"canShowAppOpenAd": false,
 		"canShowUnityBanner": false,
-        "bannerAdSequence": "None",
-        "interstitialAdSequence": "None",
+        "bannerAdSequence": "Applovin",
+        "interstitialAdSequence": "Applovin",
         "rewardedAdSequence": "None"
     },
     "gamesData": [
