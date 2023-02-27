@@ -4,8 +4,8 @@
 		"canShowNativeAd": false,
 		"canShowAppOpenAd": false,
 		"canShowUnityBanner": false,
-        "bannerAdSequence": "Applovin",
-        "interstitialAdSequence": "Applovin",
+        "bannerAdSequence": "None",
+        "interstitialAdSequence": "None",
         "rewardedAdSequence": "None"
     },
     "gamesData": [
@@ -17,7 +17,7 @@
         {
             "appVersion": "6",
             "appName": "RGice",
-            "appLink": "https://play.google.com/store/apps/details?id=com.scary.granny.house.night.evil&hl=en"
+            "appLink": ""
         },
 		{
             "appVersion": "6",
