@@ -4,20 +4,20 @@
 		"canShowNativeAd": false,
 		"canShowAppOpenAd": false,
 		"canShowUnityBanner": false,
-        "bannerAdSequence": "Admob_Applovin_Unity",
+        "bannerAdSequence": "Applovin_Admob_Unity",
         "interstitialAdSequence": "Admob_Applovin_Unity",
-        "rewardedAdSequence": "Admob_Applovin_Unity"
+        "rewardedAdSequence": "Applovin_Admob_Unity"
     },
     "gamesData": [
         {
             "appVersion": "6",
             "appName": "hor",
-            "appLink": "https://play.google.com/store/apps/details?id=com.scary.granny.house.night.evil&hl=en"
+            "appLink": ""
         },
         {
             "appVersion": "6",
             "appName": "RGice",
-            "appLink": "https://play.google.com/store/apps/details?id=com.horror.ice.scream.night.scene&hl=en"
+            "appLink": ""
         },
 		{
             "appVersion": "6",
