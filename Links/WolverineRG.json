@@ -1,0 +1,33 @@
+{
+	    "adsData": {
+		"canShowCP": true,
+		"canShowNativeAd": false,
+		"canShowAppOpenAd": false,
+		"canShowUnityBanner": false,
+        "bannerAdSequence": "Admob_Applovin_Unity",
+        "interstitialAdSequence": "Admob_Applovin_Unity",
+        "rewardedAdSequence": "Applovin_Admob_Unity"
+    },
+    "gamesData": [
+        {
+            "appVersion": "6",
+            "appName": "icecream",
+            "appLink": "https://play.google.com/store/apps/details?id=com.scary.granny.house.night.evil&hl=en"
+        },
+        {
+            "appVersion": "6",
+            "appName": "RGice",
+            "appLink": "https://play.google.com/store/apps/details?id=com.horror.ice.scream.night.scene&hl=en"
+        },
+		{
+            "appVersion": "6",
+            "appName": "carg",
+            "appLink": "https://play.google.com/store/apps/details?id=com.captain.epic.hero.fight.game&hl=en"
+        },
+		{
+            "appVersion": "6",
+            "appName": "train",
+            "appLink": "https://play.google.com/store/apps/details?id=com.horror.train.choo.spider.game&hl=en"
+        }
+    ]
+}
