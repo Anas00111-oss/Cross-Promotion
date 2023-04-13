@@ -6,7 +6,7 @@
 		"canShowUnityBanner": false,
         "bannerAdSequence": "None",
         "interstitialAdSequence": "None",
-        "rewardedAdSequence": "Applovin_Admob_Unity"
+        "rewardedAdSequence": "None"
     },
     "gamesData": [
         {
