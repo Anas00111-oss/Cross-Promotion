@@ -4,7 +4,7 @@
 		"canShowNativeAd": false,
 		"canShowAppOpenAd": false,
 		"canShowUnityBanner": false,
-        "bannerAdSequence": "Applovin",
+        "bannerAdSequence": "None",
         "interstitialAdSequence": "None",
         "rewardedAdSequence": "None"
     },
