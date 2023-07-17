@@ -11,23 +11,22 @@
     "gamesData": [
         {
             "appVersion": "6",
-            "appName": "asd",
-            "appLink": "https://play.google.com/store/apps/details?id=com.nextwave.wcc2&hl=en"
+            "appName": "",
+            "appLink": ""
         },
         {
             "appVersion": "6",
-            "appName": "asd",
-            "appLink": "https://play.google.com/store/apps/details?id=com.nextwave.wcc2&hl=en"
-        },
-		{
-            "appVersion": "6",
-            "appName": "LittleFairy",
+            "appName": "",
             "appLink": ""
         },
 		{
             "appVersion": "6",
-            "appName": "WeddingBridesDressup",
+            "appName": "",
+            "appLink": ""
+        },
+		{
+            "appVersion": "6",
+            "appName": "",
             "appLink": ""
         }
     ]
-}
