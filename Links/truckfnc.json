@@ -1,0 +1,33 @@
+{
+	    "adsData": {
+		"canShowCP": true,
+		"canShowNativeAd": false,
+		"canShowAppOpenAd": false,
+		"canShowUnityBanner": false,
+        "bannerAdSequence": "None",
+        "interstitialAdSequence": "None",
+        "rewardedAdSequence": "None"
+    },
+    "gamesData": [
+        {
+            "appVersion": "6",
+            "appName": "truck",
+            "appLink": ""
+        },
+        {
+            "appVersion": "6",
+            "appName": "trucks",
+            "appLink": ""
+        },
+		{
+            "appVersion": "6",
+            "appName": "",
+            "appLink": ""
+        },
+		{
+            "appVersion": "6",
+            "appName": "",
+            "appLink": ""
+        }
+    ]
+}
