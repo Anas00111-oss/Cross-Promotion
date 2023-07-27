@@ -1,0 +1,33 @@
+{
+	    "adsData": {
+		"canShowCP": true,
+		"canShowNativeAd": false,
+		"canShowAppOpenAd": false,
+		"canShowUnityBanner": false,
+        "bannerAdSequence": "None",
+        "interstitialAdSequence": "None",
+        "rewardedAdSequence": "None"
+    },
+    "gamesData": [
+        {
+            "appVersion": "6",
+            "appName": "bikefnc",
+            "appLink": ""
+        },
+        {
+            "appVersion": "6",
+            "appName": "bikesfnc",
+            "appLink": ""
+        },
+		{
+            "appVersion": "6",
+            "appName": "",
+            "appLink": ""
+        },
+		{
+            "appVersion": "6",
+            "appName": "",
+            "appLink": ""
+        }
+    ]
+}
