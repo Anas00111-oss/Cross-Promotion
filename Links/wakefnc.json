@@ -4,19 +4,19 @@
 		"canShowNativeAd": false,
 		"canShowAppOpenAd": false,
 		"canShowUnityBanner": false,
-        "bannerAdSequence": "Applovin",
-        "interstitialAdSequence": "Applovin",
-        "rewardedAdSequence": "Applovin"
+        "bannerAdSequence": "None",
+        "interstitialAdSequence": "None",
+        "rewardedAdSequence": "None"
     },
     "gamesData": [
         {
             "appVersion": "6",
-            "appName": "truck",
+            "appName": "wakesfnc",
             "appLink": ""
         },
         {
             "appVersion": "6",
-            "appName": "trucks",
+            "appName": "wakefnc",
             "appLink": ""
         },
 		{
