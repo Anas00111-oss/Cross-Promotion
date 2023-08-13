@@ -4,9 +4,9 @@
 		"canShowNativeAd": false,
 		"canShowAppOpenAd": false,
 		"canShowUnityBanner": false,
-        "bannerAdSequence": "None",
-        "interstitialAdSequence": "None",
-        "rewardedAdSequence": "None"
+        "bannerAdSequence": "Applovin",
+        "interstitialAdSequence": "Applovin",
+        "rewardedAdSequence": "Applovin"
     },
     "gamesData": [
         {
@@ -16,7 +16,7 @@
         },
         {
             "appVersion": "6",
-            "appName": "spiderfnc",
+            "appName": "spidersfnc",
             "appLink": ""
         },
 		{
