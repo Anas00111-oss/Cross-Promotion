@@ -4,19 +4,19 @@
 		"canShowNativeAd": false,
 		"canShowAppOpenAd": false,
 		"canShowUnityBanner": false,
-        "bannerAdSequence": "Applovin",
-        "interstitialAdSequence": "Applovin",
-        "rewardedAdSequence": "Applovin"
+        "bannerAdSequence": "None",
+        "interstitialAdSequence": "None",
+        "rewardedAdSequence": "None"
     },
     "gamesData": [
         {
             "appVersion": "6",
-            "appName": "cycleracefnc",
+            "appName": "iplfnc",
             "appLink": ""
         },
         {
             "appVersion": "6",
-            "appName": "cycleracesfnc",
+            "appName": "iplsfnc",
             "appLink": ""
         },
 		{
